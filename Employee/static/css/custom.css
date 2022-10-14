@@ -1,0 +1,317 @@
+
+h4 {
+
+    font-size: 18px !important;
+  }
+  
+  .navbar-toggler {
+  
+    background: #273b5e !important;
+    color: #fd1849 !important;
+  }
+  
+  .stock-h4 {
+  
+    font-size: 22px !important;
+  }
+  
+  .custom-feature-item {
+  
+    min-height: 340px !important;
+  }
+  
+  .banner-custom:before {
+  
+    opacity: .6;
+  }
+  
+  .category-icon .course-img {
+  
+    width: 80px;
+  }
+  
+  .subscribe-section-logo {
+  
+    width: 120px;
+  }
+  
+  .navbar-brand img {
+  
+    width: 200px;
+  }
+  
+  .footer-logo img {
+  
+    width: 200px;
+  }
+  
+  .custom-course-price {
+  
+    color: #FF1949 !important;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 30px;
+    font-family: "Quicksand", sans-serif;
+  }
+  
+  .custom-header-section::before {
+  
+    background: #fd1849 !important;
+  }
+  
+  .custom-course-category h4 {
+  
+    color: #273b5e !important;
+  }
+  
+  .custom-course-category p {
+  
+    color: #273b5e !important;
+  }
+  
+  .custom-subheading::before {
+  
+    background: #ffffff !important;
+  }
+  
+  .testimonials-slides .owl-item.active.center .review-item .client-info {
+  
+    background: #263b5e !important;
+    border: 1px solid #263b5e !important;
+    border-top: 3px solid #FF1949 !important;
+  }
+  
+  .testimonials-slides .owl-item.active.center .review-item .client-info:hover {
+  
+    background: #FF1949 !important;
+    border: 1px solid #FF1949 !important;
+    border-top: 3px solid #FF1949 !important;
+  }
+  
+  .testimonials-slides .owl-item.active.center .review-item .client-info:before {
+  
+    border-top: 30px solid #263b5e !important;
+    opacity: 1;
+  }
+  
+  .testimonials-slides .owl-item.active.center .review-item .client-info:hover::before {
+  
+    border-top: 30px solid #FF1949 !important;
+  }
+  
+  .custom-course-top-padding {
+  
+    padding-top: 80px !important;
+  }
+  
+  .about-list-heading {
+  
+    font-size: 20px;
+    font-weight: bold;
+    color: #FF1949;
+  }
+  
+  .feature-icon svg {
+  
+    height: 50px;
+    width: 50px;
+  }
+  
+  .custom-blog-title {
+  
+    min-height: 80px;
+    max-height: 80px;
+    overflow: hidden;
+    margin-bottom: 20px !important;
+  }
+  
+  .custom-sub-blog-title {
+  
+    max-width: 140px;
+    overflow-x: hidden;
+  }
+  
+  .custom-team::before {
+  
+    /* background: none !important; */
+  }
+  
+  .custom-about-banner {
+  
+    background: #263b5e !important;
+    padding-bottom: 50px !important;
+  }
+  
+  .custom-testimonial .review-item p {
+  
+    max-height: 200px !important;
+    min-height: 200px !important;
+    overflow-y: hidden;
+  }
+  
+  .custom-reviewer-img {
+  
+    width: 80px !important;
+  }
+  
+  .course-block .custom-course-content h4 {
+  
+    min-height: 72px !important;
+  }
+  
+  /* Whatsapp Floating Button */
+  .float{
+      position:fixed;
+      width:60px;
+      height:60px;
+      bottom:100px;
+      right:34px;
+      background-color:#25d366;
+      color:#FFF;
+      border-radius:50px;
+      text-align:center;
+    font-size:30px;
+      box-shadow: 2px 2px 3px #999;
+    z-index:100;
+  }
+  
+  .my-float{
+      margin-top:16px;
+  }
+  /* Whatsapp Floating Button End*/
+  
+  /* masonry css */
+  .item-testimonial {
+  
+    font-size: large;
+    font-weight: 600;
+  }
+  
+  .item-endorser {
+  
+    font-size: larger;
+    color: black;
+    font-weight: bold;
+  }
+  
+  .masonry h1 {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .masonry p {
+    text-align: center;
+    margin-bottom: 60px;
+  }
+  
+  .masonry h4 {
+    text-align: center;
+    line-height: 80px;
+    font-weight: normal;
+  }
+  
+  .masonry {
+    /* Masonry container */
+    -webkit-column-count: 4;
+    -moz-column-count: 4;
+    column-count: 4;
+    -webkit-column-gap: 1em;
+    -moz-column-gap: 1em;
+    column-gap: 1em;
+    margin: 1.5em;
+    padding: 0;
+    -moz-column-gap: 1.5em;
+    -webkit-column-gap: 1.5em;
+    column-gap: 1.5em;
+    font-size: .85em;
+  }
+  
+  .masonry .item {
+  
+    border-radius: 8px;
+    display: inline-block;
+    background: #fff;
+    padding: 2em;
+    margin: 0 0 2em;
+    width: 98%;
+    -webkit-transition: 1s ease all;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-shadow: 0px 0px 8px 0 #ccc;
+  }
+  
+  .masonry .item img {
+    max-width: 100%;
+  }
+  
+  .custom-post-thumb img {
+  
+    height: 400px;
+    width: -webkit-fill-available;
+    object-fit: cover;
+  }
+  
+  .custom-blog-item img {
+  
+    height: 200px;
+    width: -webkit-fill-available;
+    object-fit: cover;
+  }
+  
+  .custom-expertise-banner {
+  
+    padding-bottom: 180px !important;
+  }
+  
+  .footer-btm {
+  
+    background-color: white !important;
+  }
+  
+  @media only screen and (max-width: 599px) {
+    .masonry {
+      -moz-column-count: 1;
+      -webkit-column-count: 1;
+      column-count: 1;
+    }
+  }
+  
+  @media only screen and (min-width: 600px) and (max-width: 768px) {
+    .masonry {
+      -moz-column-count: 2;
+      -webkit-column-count: 2;
+      column-count: 2;
+    }
+  }
+  
+  @media only screen and (min-width: 769px) {
+    .masonry {
+      -moz-column-count: 3;
+      -webkit-column-count: 3;
+      column-count: 3;
+    }
+  }
+  /* masonry css end */
+  
+  .footer-btm .copyright p {
+  
+    color: #273b5e !important;
+  }
+  
+  @media (max-width: 992px) {
+  
+    .custom-course-top-padding {
+  
+      padding-top: 0px !important;
+    }
+  }
+  
+  @media (max-width: 500px) {
+  
+    .custom-expertise-banner {
+  
+      padding-top: 40px !important;
+    }
+  }
+  
